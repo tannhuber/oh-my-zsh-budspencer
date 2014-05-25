@@ -11,7 +11,9 @@ budspencer theme for the oh-my-zsh prompt
 # Installation
 * copy ```budspencer.zsh-theme``` into the ```~/.oh-my-zsh/custom/themes``` directory 
 
-[1]: https://github.com/robbyrussell/oh-my-zsh
-[2]: https://github.com/Lokaltog/powerline-fonts
+# Screenshot
 
 ![screenshot](https://raw.githubusercontent.com/tannhuber/oh-my-zsh-budspencer/master/budspencer.png)!               
+
+[1]: https://github.com/robbyrussell/oh-my-zsh
+[2]: https://github.com/Lokaltog/powerline-fonts
