@@ -14,4 +14,4 @@ budspencer theme for the oh-my-zsh prompt
 [1]: https://github.com/robbyrussell/oh-my-zsh
 [2]: https://github.com/Lokaltog/powerline-fonts
 
-!https://raw.githubusercontent.com/tannhuber/oh-my-zsh-budspencer/master/budspencer.png(Budspencer theme)!               
+!https://raw.githubusercontent.com/tannhuber/oh-my-zsh-budspencer/master/budspencer.png(Budspencer-theme)!               
