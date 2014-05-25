@@ -4,9 +4,9 @@ oh-my-zsh-budspencer
 budspencer theme for the oh-my-zsh prompt
 
 # Why?
-Emacs mode is frustrating in a shell for vi users. The the different vi-modes
-can be confusing as well if you cannot realize which mode is active. A clearly
-visible indicator can improve your life. Budspencer tells you where you are.
+Emacs mode is frustrating in a shell for vi users. The different vi-modes can be
+confusing as well if you cannot realize which mode is active. A clearly visible
+indicator can improve your life. Budspencer tells you where you are.
 
 # Requirements
 * zsh
