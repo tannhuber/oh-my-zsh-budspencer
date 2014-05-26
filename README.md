@@ -1,7 +1,7 @@
 oh-my-zsh-budspencer
 ====================
 
-budspencer and terencehill themes for the oh-my-zsh prompt
+Budspencer and Terencehill themes for the oh-my-zsh prompt
 
 # Why?
 Emacs mode is frustrating in a shell for vi users. The different vi-modes can be
@@ -11,7 +11,7 @@ indicator can improve your life. Budspencer and Terencehill tell you where you a
 # Requirements
 * zsh
 * [oh-my-zsh][1]
-* [powerline font][2]
+* [powerline font][2] (not needed for terencehill theme)
 
 # Installation
 * Copy ```budspencer.zsh-theme``` and ```terencehill.zsh-theme```
@@ -21,8 +21,11 @@ indicator can improve your life. Budspencer and Terencehill tell you where you a
 
 # Screenshots
 
-![screenshot](https://raw.githubusercontent.com/tannhuber/oh-my-zsh-budspencer/master/budspencer.png)
-![screenshot](https://raw.githubusercontent.com/tannhuber/oh-my-zsh-budspencer/master/terencehill.png)
+Budspencer theme
+![budspencer](https://raw.githubusercontent.com/tannhuber/oh-my-zsh-budspencer/master/budspencer.png)
+
+Terencehill theme
+![terencehill](https://raw.githubusercontent.com/tannhuber/oh-my-zsh-budspencer/master/terencehill.png)
 
 [1]: https://github.com/robbyrussell/oh-my-zsh
 [2]: https://github.com/Lokaltog/powerline-fonts
