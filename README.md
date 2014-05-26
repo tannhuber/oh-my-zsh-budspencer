@@ -14,12 +14,12 @@ indicator can improve your life. Budspencer and Terencehill tell you where you a
 * [powerline font][2]
 
 # Installation
-* copy ```budspencer.zsh-theme``` and ```terencehill.zsh-theme``` 
-    into the ```~/.oh-my-zsh/custom/themes``` directory
+* Copy ```budspencer.zsh-theme``` and ```terencehill.zsh-theme```
+    into the ```~/.oh-my-zsh/custom/themes``` directory.
 * Set ```ZSH_THEME="budspencer"``` or ```ZSH_THEME="terencehill"``` in your
-    .zshrc
+    ```.zshrc```.
 
-# Screenshot
+# Screenshots
 
 ![screenshot](https://raw.githubusercontent.com/tannhuber/oh-my-zsh-budspencer/master/budspencer.png)
 ![screenshot](https://raw.githubusercontent.com/tannhuber/oh-my-zsh-budspencer/master/terencehill.png)

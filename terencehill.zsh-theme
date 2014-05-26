@@ -214,6 +214,7 @@ build_prompt() {
 ##################################################
 # => Show prompt
 ##################################################
+KEYTIMEOUT=1
 set_vi_mode "i"
 PROMPT='%{%f%b%k%}$(build_prompt)'
 RPROMPT='${dir_mode}'
