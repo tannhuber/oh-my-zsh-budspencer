@@ -3,6 +3,9 @@ oh-my-zsh-budspencer
 
 Budspencer and Terencehill themes for the oh-my-zsh prompt
 
+# Obsolete
+I switched to [prezto][3]
+
 # Why?
 Emacs mode is frustrating in a shell for vi users. The different vi-modes can be
 confusing as well if you cannot realize which mode is active. A clearly visible
@@ -29,3 +32,4 @@ Terencehill theme
 
 [1]: https://github.com/robbyrussell/oh-my-zsh
 [2]: https://github.com/Lokaltog/powerline-fonts
+[3]: https://github.com/tannhuber/prezto/tree/everything
