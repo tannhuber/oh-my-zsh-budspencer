@@ -33,4 +33,4 @@ Terencehill theme
 
 [1]: https://github.com/robbyrussell/oh-my-zsh
 [2]: https://github.com/Lokaltog/powerline-fonts
-[3]: https://github.com/tannhuber/prezto/tree/everything
+[3]: https://github.com/tannhuber/prezto
