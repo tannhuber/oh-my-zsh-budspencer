@@ -4,8 +4,8 @@ oh-my-zsh-budspencer
 Budspencer and Terencehill themes for the oh-my-zsh prompt
 
 # Obsolete
-I switched to [prezto][3]. You can find a new budspencer, terencehill and
-dangerous theme there in branch "everything".
+I switched to [prezto][3]. You can find an advanced budspencer, terencehill and
+dangerous theme there.
 
 # Why?
 Emacs mode is frustrating in a shell for vi users. The different vi-modes can be
